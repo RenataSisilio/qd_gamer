@@ -27453,12 +27453,12 @@ if(p===s)return s
 if(a.charCodeAt(s)!==47)return q
 return b+3},
 aMc(a){var s,r=B.c.T(a.split("_")[1],0,a.split("_")[1].length-1)
-$label0$0:{if("terco"===r){s="04.png"
-break $label0$0}if("adoracao"===r){s="05.png"
-break $label0$0}if("show"===r){s="02.png"
-break $label0$0}if("fot"===r){s="03.png"
-break $label0$0}if("confissa"===r){s="01.png"
-break $label0$0}s="Reduzido-vermelho.png"
+$label0$0:{if("terco"===r){s="assets/04.png"
+break $label0$0}if("adoracao"===r){s="assets/05.png"
+break $label0$0}if("show"===r){s="assets/02.png"
+break $label0$0}if("fot"===r){s="assets/03.png"
+break $label0$0}if("confissa"===r){s="assets/01.png"
+break $label0$0}s="assets/Reduzido-vermelho.png"
 break $label0$0}return s},
 aTN(a,b){return A.aLJ(a)},
 aFu(a,b){var s
@@ -86439,7 +86439,7 @@ return s.d=!s.d},
 $S:0}
 A.KA.prototype={
 M(a){var s=null
-return new A.cH(B.hb,A.lg(A.c([A.L_("Texto-branco.png",s,56,s,s),A.aw_(s,s,B.G5,s,s,this.c,s,s,"Sair")],t.E),B.uF),s)}}
+return new A.cH(B.hb,A.lg(A.c([A.L_("assets/Texto-branco.png",s,56,s,s),A.aw_(s,s,B.G5,s,s,this.c,s,s,"Sair")],t.E),B.uF),s)}}
 A.lc.prototype={
 ah(){return new A.F3(A.c([],t.H7))}}
 A.F3.prototype={
